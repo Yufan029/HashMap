@@ -1,1 +1,1 @@
-# HashMap
+# HashMap - simple implementation
